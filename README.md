@@ -136,7 +136,7 @@ Copy the `.product-card` structure and customize:
 
 ## 🌐 Demo
 
-[Live Demo](#) - (Add your GitHub Pages or deployed site URL here)
+[Live Demo](#) - ((https://miriamtubul.github.io/cake/))
 
 ## 📸 Screenshots
 
